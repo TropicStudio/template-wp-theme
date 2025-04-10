@@ -3,6 +3,7 @@
   <p><?php bloginfo('description'); ?></p>
 
   <?php echo the_title(); ?>
+  <p>THIS IS WORKING!!!</p>
 
   <?php
   if (have_posts()) :
